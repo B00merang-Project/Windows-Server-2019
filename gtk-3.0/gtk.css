@@ -1102,7 +1102,7 @@ notebook {
     border-radius: 0;
     border-color: shade(#F0F0F0, 0.8);
     color: #000000;
-    background-color: shade(#F0F0F0, 0.98); }
+    background-color: shade(#F0F0F0, 0.97); }
     notebook tab:hover {
       background-color: #CCE8FF; }
     notebook tab:checked {
@@ -1114,7 +1114,7 @@ notebook {
         border-color: shade(#F0F0F0, 0.8);
         background-color: #FFFFFF; }
     notebook tab:backdrop {
-      background-color: shade(#F0F0F0, 0.98); }
+      background-color: shade(#F0F0F0, 0.97); }
   notebook > header {
     padding-top: 2px;
     background-color: #F0F0F0; }
